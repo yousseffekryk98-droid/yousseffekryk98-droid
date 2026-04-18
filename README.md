@@ -42,6 +42,15 @@ I am a Computer Science student at ECU and the Founder of **UniBite**. I special
 
 ---
 
+### ⚙️ Development Philosophy: The AI-Native Architect
+I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfaces, while maintaining manual control over mission-critical engineering:
+
+- **Manual Engineering:** 100% of Robotics (ESP32), C++ Logic, and Unreal Engine systems are hand-coded to ensure performance and safety.
+- **AI-Augmented (Web):** I act as the Lead Architect for **React, TypeScript, and Supabase**. I design the logic and database schemas, using LLM tools to handle boilerplate and rapid UI prototyping.
+- **Defensive Focus:** Every AI-generated component is manually reviewed for security, licensing compliance, and logical integrity.
+
+---
+
 ### 📊 My Stats
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseffekryk98-droid&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffekryk98-droid&layout=compact&theme=tokyonight)
