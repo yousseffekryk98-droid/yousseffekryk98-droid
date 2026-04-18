@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Youssef Mohamed Fekry 👋
 
-<!--
-**yousseffekryk98-droid/yousseffekryk98-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Founder & Full-Stack Developer | C++ & Unreal Engine Enthusiast
+I am a Computer Science student at ECU and the Founder of **UniBite**. I specialize in building scalable, secure systems with a heavy focus on **Defensive Engineering** and intellectual property protection.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Vite, TypeScript, Tailwind CSS |
+| **Backend** | Supabase, PostgreSQL |
+| **Languages** | C++, TypeScript |
+| **Embedded/Hardware** | ESP32, Arduino, Robotic Systems |
+| **Game Dev** | Unreal Engine (C++ Classes/Actors) |
+
+---
+
+### 📂 Featured Projects
+
+#### 🍱 UniBite 
+*A Campus-based ERP & Food-Tech Platform.*
+- Developed full-stack architecture using **React & Supabase**.
+- Implemented **License Gating** scripts and defensive engineering to protect source code across 90+ files.
+- Managing 4+ cafeteria branches with real-time inventory and cashier logic.
+
+#### ♟️ AI Chess System
+*Data-driven Chess Engine in Unreal Engine.*
+- Built using **C++ Classes** and Actors for high-performance state management.
+- Focus: Move validation logic and actor-based board representation.
+
+#### 🤖 Sumo Robot
+- 2.8kg iron-chassis competition robot with a robotic arm.
+- Powered by **ESP32**, utilizing custom sensor fusion for opponent detection.
+
+---
+
+### 🏆 Beyond the Code
+- **Bodybuilding:** 5+ years of technical nutrition planning and competitive training.
+- **Chess:** International player and former Chess Captain.
+- **Academic:** Currently pursuing B.Sc. in Computer Science (First Year).
+
+---
+
+### 📊 My Stats
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseffekryk98-droid&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffekryk98-droid&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/youssef-fekry-a73727276) | [Email](mailto:yousseffekry@gmail.com)
