@@ -10,9 +10,9 @@ I am a Computer Science student at ECU and the Founder of **UniBite**. I special
 | :--- | :--- |
 | **Frontend** | React, Vite, TypeScript, Tailwind CSS |
 | **Backend** | Supabase, PostgreSQL |
-| **Languages** | C++, TypeScript |
+| **Languages** | C++, TypeScript  |
 | **Embedded/Hardware** | ESP32, Arduino, Robotic Systems |
-| **Game Dev** | Unreal Engine (C++ Classes/Actors) |
+| **Game Dev** | Unreal Engine (C++ Classes/Actors/Blueprints) |
 
 ---
 
