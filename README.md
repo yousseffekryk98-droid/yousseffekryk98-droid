@@ -4,13 +4,13 @@
 I am a Computer Science student at ECU and the Founder of **UniBite**. I specialize in building scalable, secure systems with a heavy focus on **Defensive Engineering** and intellectual property protection.
 
 ---
+# Technical Stack
 
-### 🛠️ Technical Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Vite, TypeScript, Tailwind CSS |
+| **Frontend** | HTML5, CSS3, React, Vite, TypeScript, Tailwind CSS |
 | **Backend** | Supabase, PostgreSQL |
-| **Languages** | C++, TypeScript  |
+| **Languages** | C++, TypeScript, HTML/CSS |
 | **Embedded/Hardware** | ESP32, Arduino, Robotic Systems |
 | **Game Dev** | Unreal Engine (C++ Classes/Actors/Blueprints) |
 
