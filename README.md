@@ -55,11 +55,5 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 
 ---
 
-### 📊 My Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseffekryk98-droid&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffekryk98-droid&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/youssef-fekry-a73727276) | [Email](mailto:yousseffekry@gmail.com)
