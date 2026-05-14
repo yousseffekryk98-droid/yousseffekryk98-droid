@@ -24,10 +24,14 @@ I am a Computer Science student at ECU and the Founder of **UniBite**. I special
 - Implemented **License Gating** scripts and defensive engineering to protect source code across 90+ files.
 - Managing 4+ cafeteria branches with real-time inventory and cashier logic.
 
-#### ♟️ AI Chess System
+#### ♟️  Chess game with urnreal
 *Data-driven Chess Engine in Unreal Engine.*
 - Built using **C++ Classes** and Actors for high-performance state management.
 - Focus: Move validation logic and actor-based board representation.
+### Mass-Scale RTS Framework in Unreal Engine
+*Architecture: Developed a C++ command-pattern system for marquee selection, group movement, and formation logic.*
+- Performance: Utilized Data Tables for unit stats and the Significance Manager to optimize AI and ticking for hundreds of active agents.
+- Navigation: Integrated NavMesh with Detour Crowd avoidance and a dynamic Fog of War system for real-time tactical depth.
 
 #### 🤖 Sumo Robot
 - 2.8kg iron-chassis competition robot with a robotic arm.
