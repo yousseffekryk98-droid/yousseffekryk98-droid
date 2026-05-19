@@ -18,7 +18,7 @@ I am a Computer Science student at ECU and the Founder of **UniBite**. I special
 
 ### 📂 Featured Projects
 
-#### 🍱 UniBite 
+#### 🍱 UniBite :[ unibite-app.com](https://unibite-app.com/)
 *A Campus-based ERP & Food-Tech Platform.*
 - Developed full-stack architecture using **React & Supabase**.
 - Implemented **License Gating** scripts and defensive engineering to protect source code across 90+ files.
