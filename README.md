@@ -22,7 +22,7 @@ I am a Computer Science student at ECU and the Founder of **UniBite**. I special
 *A Campus-based ERP & Food-Tech Platform.*
 - Developed full-stack architecture using **React & Supabase**.
 - Implemented **License Gating** scripts and defensive engineering to protect source code across 90+ files.
-- Managing 4+ cafeteria branches with real-time inventory and cashier logic.
+- Managing 5+ cafeteria branches with real-time inventory and cashier logic.
 
 #### ♟️  Chess game with urnreal
 *Data-driven Chess Engine in Unreal Engine.*
