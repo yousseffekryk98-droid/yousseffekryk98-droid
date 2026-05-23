@@ -24,7 +24,7 @@ I am a Computer Science student at ECU and the Founder of **UniBite**. I special
 - Implemented **License Gating** scripts and defensive engineering to protect source code across 90+ files.
 - Managing 5+ cafeteria branches with real-time inventory and cashier logic.
 
-#### ♟️  Chess game with urnreal
+#### ♟️  Chess game with urnreal engine 
 *Data-driven Chess Engine in Unreal Engine.*
 - Built using **C++ Classes** and Actors for high-performance state management.
 - Focus: Move validation logic and actor-based board representation.
