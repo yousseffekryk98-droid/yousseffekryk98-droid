@@ -64,8 +64,8 @@ A curated collection of my live applications, ranging from production-ready ente
 | **UniBite** | [🚀 unibite-app.com](https://unibite-app.com) | React • TypeScript • Supabase • Redux | Multi-tenant campus food ordering & real-time ERP network. |
 | **Maktaba ECU** | [🚀 ecu-library-management-system.netlify.app](https://ecu-library-management-system.netlify.app/) | Frontend • Inventory Logic | Digital college library management system for inventory and tracking. |
 | **Dr. Asmaa** | [🚀 dr-asmaa.vercel.app](https://dr-asmaa.vercel.app/) | Frontend • UI/UX | Professional medical/portfolio web application. |
-| **TEQ** | [🚀 teq-trust.netlify.app](https://teq-trust.netlify.app/) | Frontend • Corporate UI | Corporate portfolio highlighting client trust and engineering solutions. |
-| **Neamah** | [🚀 nemah-menu.netlify.app](https://nemah-menu.netlify.app/) | Frontend • Interactive Menu | Dynamic digital menu system optimizing customer ordering experience. |
+| **TEQ** | [🚀 https://teq-trus-egypt-for-quality.pages.dev/](https://teq-trus-egypt-for-quality.pages.dev/) | Frontend • Corporate UI | Corporate portfolio highlighting client trust and engineering solutions. |
+| **Neamah** | [🚀[ nemah-menu.netlify.app](https://neamah-menu-final.pages.dev/)](https://neamah-menu-final.pages.dev/) | Frontend • Interactive Menu | Dynamic digital menu system optimizing customer ordering experience. |
 | **TipTop** | [🚀 tiptopp.netlify.app](https://tiptopp.netlify.app/) | Frontend • Web App | Specialized interactive tool/application deployment. |
 
 ---
