@@ -54,21 +54,20 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 - **Defensive Focus:** Every AI-generated component is manually reviewed for security, licensing compliance, and logical integrity.
 
 ---
-
 ## 🌐 Live Projects & Deployments
 
 A curated collection of my live applications, ranging from production-ready enterprise systems to specialized campus solutions.
 
-| Project | Live Demo | Stack / Core Focus | Description |
+| **Project** | **Live Demo** | **Stack / Core Focus** | **Description** |
 | :--- | :--- | :--- | :--- |
-| **UniBite** | [🚀 unibite-app.com](https://unibite-app.com) | React • TypeScript • Supabase • Redux | Multi-tenant campus food ordering & real-time ERP network. |
-| **Maktaba ECU** | [🚀 ecu-library-management-system.netlify.app](https://ecu-library-management-system.netlify.app/) | Frontend • Inventory Logic | Digital college library management system for inventory and tracking. |
-| **Dr. Asmaa** | [🚀 dr-asmaa.vercel.app](https://dr-asmaa.vercel.app/) | Frontend • UI/UX | Professional medical/portfolio web application. |
-| **TEQ** | [🚀 https://teq-trus-egypt-for-quality.pages.dev/](https://teq-trus-egypt-for-quality.pages.dev/) | Frontend • Corporate UI | Corporate portfolio highlighting client trust and engineering solutions. |
-| **Neamah** | [🚀[ nemah-menu.netlify.app](https://neamah-menu-final.pages.dev/)](https://neamah-menu-final.pages.dev/) | Frontend • Interactive Menu | Dynamic digital menu system optimizing customer ordering experience. |
-| **TipTop** | [🚀 tiptopp.netlify.app](https://tiptopp.netlify.app/) | Frontend • Web App | Specialized interactive tool/application deployment. |
-
----
+| **UniBite** | [🚀 unibite-app.com](https://unibite-app.com) | React • TypeScript • Supabase • Redux | Multi-tenant campus food ordering & real-time ERP/POS. |
+| **Maktaba ECU** | [ecu-library-management-system.netlify.app](https://ecu-library-management-system.netlify.app/) | Full-Stack • Library Mgmt | Digital library management system with backend data storage and admin dashboard for inventory tracking . |
+| **Dr. Asmaa** | [dr-asmaa.site](https://dr-asmaa.site/) | Full-Stack • Medical Booking | Full-stack medical booking application for patients to schedule appointments . |
+| **TEQ** | [teq-trus-egypt-for-quality.pages.dev](https://teq-trus-egypt-for-quality.pages.dev/) | Full-Stack • Corporate UI | Corporate platform with an admin interface for client collaboration and secure file transmission . |
+| **Neamah** | [nemah-menu.netlify.app](https://neamah-menu-final.pages.dev/) | Full-Stack • Digital Menu | Dynamic digital menu system with an admin panel for real-time menu management. |
+| **TipTop** | [tiptopp.netlify.app](https://tiptopp.netlify.app/) | Full-Stack • Web App | Interactive application with an admin interface for content management . |
+| **Conamore** | [conamore-menu.pages.dev](https://conamore-menu.pages.dev/) | Full-Stack • Digital Menu | Interactive digital menu system for Tiramisu ordering and management . |
+---------------------
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/youssef-fekry-a73727276) | [Email](mailto:yousseffekry@gmail.com)
