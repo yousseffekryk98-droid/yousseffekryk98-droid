@@ -56,18 +56,37 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 ---
 ## 🌐 Live Projects & Deployments
 
-A curated collection of my live applications, ranging from production-ready enterprise systems to specialized campus solutions.
+> A selection of applications and client projects currently deployed online.
 
-| **Project** | **Live Demo** | **Stack / Core Focus** | **Description** |
+### ☁️ Cloudflare Workers & Pages
+
+| Project | Live Deployment | GitHub | Focus |
 | :--- | :--- | :--- | :--- |
-| **UniBite** | [🚀 unibite-app.com](https://unibite-app.com) | React • TypeScript • Supabase • Redux | Multi-tenant campus food ordering & real-time ERP/POS. |
-| **Maktaba ECU** | [ecu-library-management-system.netlify.app](https://ecu-library-management-system.netlify.app/) | Full-Stack • Library Mgmt | Digital library management system with backend data storage and admin dashboard for inventory tracking . |
-| **Dr. Asmaa** | [dr-asmaa.site](https://dr-asmaa.site/) | Full-Stack • Medical Booking | Full-stack medical booking application for patients to schedule appointments . |
-| **TEQ** | [teq-trus-egypt-for-quality.pages.dev](https://teq-trus-egypt-for-quality.pages.dev/) | Full-Stack • Corporate UI | Corporate platform with an admin interface for client collaboration and secure file transmission . |
-| **Neamah** | [nemah-menu.netlify.app](https://neamah-menu-final.pages.dev/) | Full-Stack • Digital Menu | Dynamic digital menu system with an admin panel for real-time menu management. |
-| **TipTop** | [tiptopp.netlify.app](https://tiptopp.netlify.app/) | Full-Stack • Web App | Interactive application with an admin interface for content management . |
-| **Conamore** | [conamore-menu.pages.dev](https://conamore-menu.pages.dev/) | Full-Stack • Digital Menu | Interactive digital menu system for Tiramisu ordering and management . |
----------------------
+| 🍱 **UniBite** | [unibite-app.com](https://unibite-app.com/) · [Pages](https://unibite.pages.dev/) | [dinin](https://github.com/yousseffekryk98-droid/dinin) | Campus platform · ERP · Food-Tech |
+| 🩺 **Dr. Mostafa Akram** | [dr-mostafa-akram.pages.dev](https://dr-mostafa-akram.pages.dev/) | [dr-mostafa-akram](https://github.com/yousseffekryk98-droid/dr-mostafa-akram) | Professional web platform |
+| ♟️ **New Chess Cairo** | [new-chess-cairo1.pages.dev](https://new-chess-cairo1.pages.dev/) | [new-chess-cairo1](https://github.com/yousseffekryk98-droid/new-chess-cairo1) | Chess platform |
+| 🩺 **Dr. Tarek El Shabouny** | [dr--tarek-el-shabouny.pages.dev](https://dr--tarek-el-shabouny.pages.dev/) | [-Dr.-Tarek-El-Shabouny](https://github.com/yousseffekryk98-droid/-Dr.-Tarek-El-Shabouny) | Medical website |
+| 💪 **T7ady Elawzan** | [t7ady-elawzan.pages.dev](https://t7ady-elawzan.pages.dev/) | [t7adyelawzan_1](https://github.com/yousseffekryk98-droid/t7adyelawzan_1) | Fitness & community platform |
+| 🏥 **7 Centers CMC** | [7-centr.pages.dev](https://7-centr.pages.dev/) | [7-centers-cmc](https://github.com/yousseffekryk98-droid/7-centers-cmc) | Multi-center web platform |
+| 🧾 **TEQ Mido ERP** | [teq-mido-erp.pages.dev](https://teq-mido-erp.pages.dev/) | [teq_mido-erp](https://github.com/yousseffekryk98-droid/teq_mido-erp) | ERP system |
+| 🍽️ **Neamah Menu** | [neamah-menu-final.pages.dev](https://neamah-menu-final.pages.dev/) | [neamah_menu_final](https://github.com/yousseffekryk98-droid/neamah_menu_final) | Digital menu |
+| 🏢 **Trust Egypt for Quality** | [teq-trus-egypt-for-quality.pages.dev](https://teq-trus-egypt-for-quality.pages.dev/) | [TEQ_TRUS_EGYPT_FOR_QUALITY](https://github.com/yousseffekryk98-droid/TEQ_TRUS_EGYPT_FOR_QUALITY) | Corporate platform |
+| 🦾 **Muscle Clinic** | [muscle-clinic.pages.dev](https://muscle-clinic.pages.dev/) | — | Clinic website |
+
+### 🚀 Other Live Deployments
+
+| Project | Live Deployment | Focus |
+| :--- | :--- | :--- |
+| 📚 **Maktaba ECU** | [ecu-library-management-system.netlify.app](https://ecu-library-management-system.netlify.app/) | Library management system |
+| 🩺 **Dr. Asmaa** | [dr-asmaa.site](https://dr-asmaa.site/) | Medical booking platform |
+| 💻 **TipTop** | [tiptopp.netlify.app](https://tiptopp.netlify.app/) | Web application |
+| 🍰 **Conamore** | [conamore-menu.pages.dev](https://conamore-menu.pages.dev/) | Digital menu & ordering |
+
+<p align="center">
+  <strong>React • TypeScript • Supabase • Cloudflare Pages • Full-Stack Development</strong>
+</p>
+
+---
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/youssef-fekry-a73727276) | [Email](mailto:yousseffekry@gmail.com)
