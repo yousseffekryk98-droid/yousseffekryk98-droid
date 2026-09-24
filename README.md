@@ -75,6 +75,7 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 | 🏢 **Trust Egypt for Quality** | [teq-trus-egypt-for-quality.pages.dev](https://teq-trus-egypt-for-quality.pages.dev/) | [TEQ_TRUS_EGYPT_FOR_QUALITY](https://github.com/yousseffekryk98-droid/TEQ_TRUS_EGYPT_FOR_QUALITY) | Corporate platform |
 | 🦾 **Muscle Clinic** | [muscle-clinic.pages.dev](https://muscle-clinic.pages.dev/) | — | Clinic website |
 | 🥷 **LEGO Ninjago Tournament** | [lego-ninjago-tournament.pages.dev](https://lego-ninjago-tournament.pages.dev/) | [LEGO-Ninjago-Tournament](https://github.com/yousseffekryk98-droid/LEGO-Ninjago-Tournament) | 3D LEGO Ninjago fighting game |
+| 📚 **Pediatrics Exam Lab** | [pediatrics-mbi.pages.dev](https://pediatrics-mbi.pages.dev/) | [pediatrics](https://github.com/yousseffekryk98-droid/pediatrics) | Pediatrics exam simulator · MCQs · Essay practice |
 
 ### 🚀 Other Live Deployments
 
