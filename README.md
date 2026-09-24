@@ -62,6 +62,8 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 
 | Project | Live Deployment | GitHub | Focus |
 | :--- | :--- | :--- | :--- |
+| 👤 **Portfolio Profile** | [profile-vqs.pages.dev](https://profile-vqs.pages.dev/) | [profile](https://github.com/yousseffekryk98-droid/profile) | Personal portfolio & project showcase |
+| 🏥 **Dr. Bassem ERP** | [dr-bassem-erp.pages.dev](https://dr-bassem-erp.pages.dev/) | [dr-bassem-erp](https://github.com/yousseffekryk98-droid/dr-bassem-erp) | Clinic ERP & operations platform |
 | 🍱 **UniBite** | [unibite-app.com](https://unibite-app.com/) · [Pages](https://unibite.pages.dev/) | [dinin](https://github.com/yousseffekryk98-droid/dinin) | Campus platform · ERP · Food-Tech |
 | 🩺 **Dr. Mostafa Akram** | [dr-mostafa-akram.pages.dev](https://dr-mostafa-akram.pages.dev/) | [dr-mostafa-akram](https://github.com/yousseffekryk98-droid/dr-mostafa-akram) | Professional web platform |
 | ♟️ **New Chess Cairo** | [new-chess-cairo1.pages.dev](https://new-chess-cairo1.pages.dev/) | [new-chess-cairo1](https://github.com/yousseffekryk98-droid/new-chess-cairo1) | Chess platform |
