@@ -67,7 +67,7 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 | 🍱 **UniBite** | [unibite-app.com](https://unibite-app.com/) · [Pages](https://unibite.pages.dev/) | [dinin](https://github.com/yousseffekryk98-droid/dinin) | Campus platform · ERP · Food-Tech |
 | 🩺 **Dr. Mostafa Akram** | [dr-mostafa-akram.pages.dev](https://dr-mostafa-akram.pages.dev/) | [dr-mostafa-akram](https://github.com/yousseffekryk98-droid/dr-mostafa-akram) | Professional web platform |
 | ♟️ **New Chess Cairo** | [new-chess-cairo1.pages.dev](https://new-chess-cairo1.pages.dev/) | [new-chess-cairo1](https://github.com/yousseffekryk98-droid/new-chess-cairo1) | Chess platform |
-| 🩺 **Dr. Tarek El Shabouny** | [dr--tarek-el-shabouny.pages.dev](https://dr--tarek-el-shabouny.pages.dev/) | [-Dr.-Tarek-El-Shabouny](https://github.com/yousseffekryk98-droid/-Dr.-Tarek-El-Shabouny) | Medical website |
+| 🩺 **Dr. Tarek El Shabouny** | [dr-tarek-elshabouny.com](https://dr-tarek-elshabouny.com/) | [-Dr.-Tarek-El-Shabouny](https://github.com/yousseffekryk98-droid/-Dr.-Tarek-El-Shabouny) | Medical website |
 | 💪 **T7ady Elawzan** | [t7ady-elawzan.pages.dev](https://t7ady-elawzan.pages.dev/) | [t7adyelawzan_1](https://github.com/yousseffekryk98-droid/t7adyelawzan_1) | Fitness & community platform |
 | 🏥 **7 Centers CMC** | [7-centr.pages.dev](https://7-centr.pages.dev/) | [7-centers-cmc](https://github.com/yousseffekryk98-droid/7-centers-cmc) | Multi-center web platform |
 | 🧾 **TEQ Mido ERP** | [teq-mido-erp.pages.dev](https://teq-mido-erp.pages.dev/) | [teq_mido-erp](https://github.com/yousseffekryk98-droid/teq_mido-erp) | ERP system |
