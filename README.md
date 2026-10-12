@@ -72,7 +72,7 @@ I utilize an **AI-Augmented workflow** to accelerate the shipping of web interfa
 | 🏥 **7 Centers CMC** | [7-centr.pages.dev](https://7-centr.pages.dev/) | [7-centers-cmc](https://github.com/yousseffekryk98-droid/7-centers-cmc) | Multi-center web platform |
 | 🧾 **TEQ Mido ERP** | [teq-mido-erp.pages.dev](https://teq-mido-erp.pages.dev/) | [teq_mido-erp](https://github.com/yousseffekryk98-droid/teq_mido-erp) | ERP system |
 | 🍽️ **Neamah Menu** | [neamah-menu-final.pages.dev](https://neamah-menu-final.pages.dev/) | [neamah_menu_final](https://github.com/yousseffekryk98-droid/neamah_menu_final) | Digital menu |
-| 🏢 **Trust Egypt for Quality** | [teq-trus-egypt-for-quality.pages.dev](https://teq-trus-egypt-for-quality.pages.dev/) | [TEQ_TRUS_EGYPT_FOR_QUALITY](https://github.com/yousseffekryk98-droid/TEQ_TRUS_EGYPT_FOR_QUALITY) | Corporate platform |
+| 🏢 **Trust Egypt for Quality** | [teqegypt.com](https://teqegypt.com/) | [TEQ_TRUS_EGYPT_FOR_QUALITY](https://github.com/yousseffekryk98-droid/TEQ_TRUS_EGYPT_FOR_QUALITY) | Corporate platform |
 | 🦾 **Muscle Clinic** | [muscle-clinic.pages.dev](https://muscle-clinic.pages.dev/) | — | Clinic website |
 | 🥷 **LEGO Ninjago Tournament** | [lego-ninjago-tournament.pages.dev](https://lego-ninjago-tournament.pages.dev/) | [LEGO-Ninjago-Tournament](https://github.com/yousseffekryk98-droid/LEGO-Ninjago-Tournament) | 3D LEGO Ninjago fighting game |
 | 📚 **Pediatrics Exam Lab** | [pediatrics-mbi.pages.dev](https://pediatrics-mbi.pages.dev/) | [pediatrics](https://github.com/yousseffekryk98-droid/pediatrics) | Pediatrics exam simulator · MCQs · Essay practice |
